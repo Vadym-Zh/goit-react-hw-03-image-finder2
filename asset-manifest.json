@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vadym-Zh/goit-react-hw-03-image-finder2/static/css/main.638077bc.css",
+    "main.js": "/Vadym-Zh/goit-react-hw-03-image-finder2/static/js/main.24380abe.js",
+    "index.html": "/Vadym-Zh/goit-react-hw-03-image-finder2/index.html",
+    "main.638077bc.css.map": "/Vadym-Zh/goit-react-hw-03-image-finder2/static/css/main.638077bc.css.map",
+    "main.24380abe.js.map": "/Vadym-Zh/goit-react-hw-03-image-finder2/static/js/main.24380abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.638077bc.css",
+    "static/js/main.24380abe.js"
+  ]
+}
